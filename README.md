@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com desenvolvimento Full-Stack
-- 🌱 Estudando sobre clound, Angular e Java
+- 🌱 Estudando sobre cloud, typescript e react
 - Contate-me matheusmagalhaes642@gmail.com
 ##
 <div align="center">
