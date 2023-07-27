@@ -3,7 +3,6 @@
 
 - 🔭 Trabalho com desenvolvimento Full-Stack
 - 🌱 Estudando sobre cloud, typescript e react
-- Contate-me matheusmagalhaes642@gmail.com
 ##
 <div align="center">
 <a href="https://github.com/matheusMagalhaes">
