@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com desenvolvimento Full-Stack
-- 🌱 Estudando sobre cloud, typescript e react
+- 🌱 Estudando sobre uma pah de coisa, mas principalmente sobre Node.js e React.
 ##
 <div align="center">
 <a href="https://github.com/matheusMagalhaes">
