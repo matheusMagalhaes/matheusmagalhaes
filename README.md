@@ -3,7 +3,8 @@
 
 - 🔭 Trabalho com desenvolvimento Full-Stack
 - 🌱 Estudando sobre uma pah de coisa, mas principalmente sobre Node.js e React e containers.
-- Fraga depois meu linkedin que lá tem um pouco mais sobre mim 😉
+  
+ Fraga depois meu linkedin que lá tem um pouco mais sobre mim 😉
 ##
 <div align="center">
 <a href="https://github.com/matheusMagalhaes">
