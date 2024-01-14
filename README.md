@@ -2,8 +2,8 @@
 ##
 <div align="center">
 <a href="https://github.com/matheusMagalhaes">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusMagalhaes&show_icons=true&theme=radical&include_all_commits"> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusMagalhaes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusMagalhaes&include_all_commits&show_icons=true&theme=radical"> 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusMagalhaes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon"> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusMagalhaes&layout=compact&theme=radical&include_all_commits">
 </div>
   
