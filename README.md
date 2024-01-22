@@ -2,9 +2,9 @@
 ##
 <div align="center">
 <a href="https://github.com/matheusMagalhaes">
-<img height="180em" src="https://github-readme-stats-git-master-matheusmagalhaes.vercel.app/api?username=matheusMagalhaes&show_icons=true&theme=radical&include_all_commits=true"> 
+<img height="180em" src="https://github-readme-stats-git-master-matheusmagalhaes.vercel.app/api?username=matheusMagalhaes&show_icons=true&theme=radical&include_all_commits=true&layout=compact&rank_icon=default"> 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusMagalhaes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon"> -->
-<img height="180em" src="https://github-readme-stats-git-master-matheusmagalhaes.vercel.app/api/top-langs/?username=matheusMagalhaes&theme=radical&card_width">
+<img height="180em" src="https://github-readme-stats-git-master-matheusmagalhaes.vercel.app/api/top-langs/?username=matheusMagalhaes&theme=radical&layout=compact&langs_count=20&include_all_commits=true">
 </div>
   
   ##
